@@ -1,0 +1,54 @@
+*{
+	
+	font-family: 'Oswald', sans-serif;
+	/* background: linear-gradient(to right, #0f0c29, #302b63); */
+	margin: 5px;
+ 	padding: 10px;
+    	font-family: 'Oswald', sans-serif;
+    	border-radius: 10px;
+    	outline: none;
+    	
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(to right,#9187c5,#141729,#648ebe);
+}
+h1 {
+	 text-align:center;
+	 /* font-weight:bold; */
+	 font-size: 25px;
+	 /* letter-spacing: 3px; */
+	 font-family: Georgia, 'Times New Roman', Times;
+	 
+}
+ 
+	 
+ .signup {
+    background: linear-gradient(to right, #342e72, #726f99); 
+    border: #e1e0e6;
+    max-width: 100%;	
+    width: 500px;
+    padding: 5px;
+    top: 10%;
+    left: 35%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    transition: 0.5s;
+    margin-top: 100px;
+    margin-left: 450px;
+    
+    
+}
+
+ 
+	 
+
+/* body {	
+	background-color:antiquewhite;
+	box-sizing: border-box;	
+} */
